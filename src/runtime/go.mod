@@ -43,7 +43,7 @@ require (
 	github.com/pbnjay/memory v0.0.0-20210728143218-7b4eea64cf58
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.22.0
-	github.com/prometheus/client_model v0.6.1
+	github.com/prometheus/client_model v0.6.3
 	github.com/prometheus/common v0.62.0
 	github.com/prometheus/procfs v0.15.1
 	github.com/safchain/ethtool v0.6.2
@@ -60,7 +60,7 @@ require (
 	golang.org/x/oauth2 v0.30.0
 	golang.org/x/sys v0.35.0
 	google.golang.org/grpc v1.72.0
-	google.golang.org/protobuf v1.36.7
+	google.golang.org/protobuf v1.36.12
 	k8s.io/apimachinery v0.33.0
 	k8s.io/cri-api v0.33.0
 	k8s.io/kubelet v0.33.0
